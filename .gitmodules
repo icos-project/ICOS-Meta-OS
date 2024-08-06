@@ -22,3 +22,51 @@
 	path = Meta Kernel/Observability/NodeFeatureDiscovery
 	url = https://github.com/icos-project/NodeFeatureDiscovery
 	branch = release
+[submodule "Meta Kernel/Observability/Tetragon Auditing"]
+	path = Meta Kernel/Observability/Tetragon Auditing
+	url = https://github.com/icos-project/tetragon-auditing
+	branch = release
+[submodule "Security/Security Coordination Module"]
+	path = Security/Security Coordination Module
+	url = https://github.com/icos-project/Security-coordination-module
+	branch = release
+[submodule "Meta Kernel/Dynamic Policy Manager"]
+	path = Meta Kernel/Dynamic Policy Manager
+	url = https://github.com/icos-project/dynamic-policy-manager
+	branch = main
+[submodule "Data Management/DataClay Charts"]
+	path = Data Management/DataClay Charts
+	url = https://github.com/icos-project/dataclay-charts
+	branch = main
+[submodule "Meta Kernel/Nuvla Deployment Manager"]
+	path = Meta Kernel/Nuvla Deployment Manager
+	url = https://github.com/icos-project/deployment-manager-nuvla
+	branch = release
+[submodule "Data Management/DataClay"]
+	path = Data Management/DataClay
+	url = https://github.com/icos-project/dataclay
+	branch = main
+[submodule "Continuum Management/Lighthouse Registration Service"]
+	path = Continuum Management/Lighthouse Registration Service
+	url = https://github.com/icos-project/lighthouse-registration-service
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetry Agent"]
+	path = Meta Kernel/Observability/Telemetry Agent
+	url = https://github.com/icos-project/Telemetry-Agent
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetry Controller"]
+	path = Meta Kernel/Observability/Telemetry Controller
+	url = https://github.com/icos-project/Telemetry-Controller
+	branch = release
+[submodule "Meta Kernel/Observability/OTEL Collector ICOS Distribution"]
+	path = Meta Kernel/Observability/OTEL Collector ICOS Distribution
+	url = https://github.com/icos-project/OTEL-Collector-ICOS-Distribution
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetruum Agent"]
+	path = Meta Kernel/Observability/Telemetruum Agent
+	url = https://github.com/icos-project/Telemetruum-Agent
+	branch = release
+[submodule "Meta Kernel/Observability/Scaphandre"]
+	path = Meta Kernel/Observability/Scaphandre
+	url = https://github.com/icos-project/Scaphandre
+	branch = release
