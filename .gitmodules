@@ -1,0 +1,4 @@
+[submodule "Meta Kernel/Aggregator"]
+	path = Meta Kernel/Aggregator
+	url = https://github.com/icos-project/Aggregator
+	branch = main
