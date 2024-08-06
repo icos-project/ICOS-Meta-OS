@@ -2,3 +2,23 @@
 	path = Meta Kernel/Aggregator
 	url = https://github.com/icos-project/Aggregator
 	branch = main
+[submodule "Meta Kernel/OCM Description Service"]
+	path = Meta Kernel/OCM Description Service
+	url = https://github.com/icos-project/ocm-description-service
+	branch = release
+[submodule "Meta Kernel/Job Manager"]
+	path = Meta Kernel/Job Manager
+	url = https://github.com/icos-project/job-manager
+	branch = release
+[submodule "Meta Kernel/OCM Description Sidecar"]
+	path = Meta Kernel/OCM Description Sidecar
+	url = https://github.com/icos-project/ocm-description-sidecar
+	branch = release
+[submodule "Meta Kernel/Observability/Metrics Export"]
+	path = Meta Kernel/Observability/Metrics Export
+	url = https://github.com/icos-project/Metrics-Export
+	branch = release
+[submodule "Meta Kernel/Observability/NodeFeatureDiscovery"]
+	path = Meta Kernel/Observability/NodeFeatureDiscovery
+	url = https://github.com/icos-project/NodeFeatureDiscovery
+	branch = release
