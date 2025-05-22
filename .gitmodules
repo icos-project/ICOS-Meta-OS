@@ -50,23 +50,55 @@
 	path = Continuum Management/Lighthouse Registration Service
 	url = https://github.com/icos-project/lighthouse-registration-service
 	branch = release
-[submodule "Meta Kernel/Observability/Telemetry Agent"]
-	path = Meta Kernel/Observability/Telemetry Agent
-	url = https://github.com/icos-project/Telemetry-Agent
-	branch = release
-[submodule "Meta Kernel/Observability/Telemetry Controller"]
-	path = Meta Kernel/Observability/Telemetry Controller
-	url = https://github.com/icos-project/Telemetry-Controller
-	branch = release
 [submodule "Meta Kernel/Observability/OTEL Collector ICOS Distribution"]
-	path = Meta Kernel/Observability/OTEL Collector ICOS Distribution
+	path = Meta Kernel/Observability/Telemetruum/OTEL Collector ICOS Distribution
 	url = https://github.com/icos-project/OTEL-Collector-ICOS-Distribution
-	branch = release
-[submodule "Meta Kernel/Observability/Telemetruum Agent"]
-	path = Meta Kernel/Observability/Telemetruum Agent
-	url = https://github.com/icos-project/Telemetruum-Agent
 	branch = release
 [submodule "Meta Kernel/Observability/Scaphandre"]
 	path = Meta Kernel/Observability/Scaphandre
 	url = https://github.com/icos-project/Scaphandre
+	branch = release
+[submodule "Intelligence/Federated\\ Learning"]
+	path = Intelligence/Federated\\ Learning
+	url = https://github.com/icos-project/icos-fl
+	branch = release
+[submodule "Meta Kernel/Topology Exporter"]
+	path = Meta Kernel/Topology Exporter
+	url = https://github.com/icos-project/topology-exporter
+	branch = release
+[submodule "Meta Kernel/Dynamic Policy Manager GUI"]
+	path = Meta Kernel/Dynamic Policy Manager GUI
+	url = https://github.com/icos-project/Dynamic-Policy-Manager-GUI
+	branch = release
+[submodule "Meta Kernel/Dynamic Policy Manager Helm Chart"]
+	path = Meta Kernel/Dynamic Policy Manager Helm Chart
+	url = https://github.com/icos-project/Dynamic-Policy-Manager-Helm-Chart
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetruum/Telemetruum Leaf Exporter"]
+	path = Meta Kernel/Observability/Telemetruum/Telemetruum Leaf Exporter
+	url = https://github.com/icos-project/Telemetruum-Leaf-Exporter
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetruum/Telemetruum Leaf Helm Chart"]
+	path = Meta Kernel/Observability/Telemetruum/Telemetruum Leaf Helm Chart
+	url = https://github.com/icos-project/Telemetruum-Leaf-Helm-Chart
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetruum/Telemetruum Hub Helm Chart"]
+	path = Meta Kernel/Observability/Telemetruum/Telemetruum Hub Helm Chart
+	url = https://github.com/icos-project/Telemetruum-Hub-Helm-Chart
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetruum/Telemetruum Gateway Helm Chart"]
+	path = Meta Kernel/Observability/Telemetruum/Telemetruum Gateway Helm Chart
+	url = https://github.com/icos-project/Telemetruum-Gateway-Helm-Chart
+	branch = release
+[submodule "Kernel/Observability/Telemetruum/Telemetruum Docs"]
+	path = Meta Kernel/Observability/Telemetruum/Telemetruum Docs
+	url = https://github.com/icos-project/Telemetruum-Docs
+	branch = release
+[submodule "Meta Kernel/Observability/Telemetruum/Telemetruum Leaf Compose"]
+	path = Meta Kernel/Observability/Telemetruum/Telemetruum Leaf Compose
+	url = https://github.com/icos-project/Telemetruum-Leaf-Compose
+	branch = release
+[submodule "Intelligence/Metrics Export"]
+	path = Intelligence/Metrics Export
+	url = https://github.com/icos-project/Metrics-Export
 	branch = release
